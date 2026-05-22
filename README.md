@@ -6,7 +6,7 @@ Ender 3 V3 SE/KE overhaul mod.
 
 I've always found the Ender 3 v3 SE to be built poorly, and seeing as how nobody else has done this, I will.
 
-##What's the catch?
+## What's the catch?
 
 This is probably not worth doing. The V3 SE is already a capable printer and I don't think improving the frame will do much, aside from adding linear rails.
 
