@@ -15,7 +15,11 @@ Definitely DO NOT do this if you've just got into printing.
 This project will involve drilling, tapping (possibly), klipper firmware, squaring etc. It is by no means for a beginner. If you want to build a printer, there are better projects.
 
 WIP BOM:
+
 -2040 V-slot extrusion, 420mm (x2)
+
 -2040 V-slot extrusion, 254mm (x2)
+
 -Openbuilds 4040 V-slot extrusion, 400mm (x2)
+
 -2020 V-slot extrusion, 334mm (x1)
