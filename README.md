@@ -5,7 +5,8 @@ Credits to BooteMaker for providing the CAD mockup of the original thing: https:
 
 ## What is it?
 
-<img width="591" height="785" alt="e3" src="https://github.com/user-attachments/assets/3d2eee2a-adcc-4f6c-95ab-3d786173b535" />
+<img width="621" height="786" alt="image" src="https://github.com/user-attachments/assets/95ec9ce5-d0c4-4aa0-9609-03f5dbd47d7e" />
+
 
 I've always found the Ender 3 v3 SE to be built poorly, and seeing as how nobody else has done this, I will.
 
