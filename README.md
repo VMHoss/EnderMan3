@@ -1,7 +1,10 @@
 # EnderMan3
 
 Ender 3 V3 SE/KE overhaul mod. (Moron)
+
 Credits to BooteMaker for providing the CAD mockup of the original thing: https://www.printables.com/model/1335617-ender-3-v3-step-file-se-ke-cad
+
+maxspec called my printer a moron btw
 
 ## What is it?
 
